@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Beyza Tarhan</h1>
+<h1 align="center">Hi 👋, I'm Beyza Arısoy</h1>
 <h3 align="center">I am a computer engineer.</h3>
 
 - 📫 How to reach me **beyzatarhn05@gmail.com**
